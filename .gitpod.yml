@@ -1,0 +1,3 @@
+tasks:
+  - init: yarn && npm i firebase-tools -g
+    command: yarn start
